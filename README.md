@@ -1,5 +1,5 @@
 # Sistema de Chamados de TI
-
+![Sistema de Chamados de TI](img/sistema.png)
 Projeto desenvolvido em C# com o objetivo de simular um sistema básico de gerenciamento de chamados de suporte técnico.
 
 ## Funcionalidades

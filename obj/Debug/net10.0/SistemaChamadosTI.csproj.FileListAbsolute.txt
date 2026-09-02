@@ -12,3 +12,4 @@ C:\Users\ariel\SistemaChamadosTI\obj\Debug\net10.0\refint\SistemaChamadosTI.dll
 C:\Users\ariel\SistemaChamadosTI\obj\Debug\net10.0\SistemaChamadosTI.pdb
 C:\Users\ariel\SistemaChamadosTI\obj\Debug\net10.0\SistemaChamadosTI.genruntimeconfig.cache
 C:\Users\ariel\SistemaChamadosTI\obj\Debug\net10.0\ref\SistemaChamadosTI.dll
+C:\Users\ariel\SistemaChamadosTI\obj\Debug\net10.0\SistemaChamadosTI.sourcelink.json
